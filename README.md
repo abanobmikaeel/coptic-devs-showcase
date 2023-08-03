@@ -23,7 +23,8 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 
 -   [API](#api)
 -   [Web App](#web)
-
+-   [Mobile](#mobile)
+  
 ### API
 
 | Link | Description | Tech |
@@ -36,6 +37,13 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | Link | Description | Tech |
 | --- | --- | -- |
 | [Upper Room Media Webapp](https://github.com/upperroommedia/web-app) | A webapp for the Upper Room Media Group | Next.js |
+| [Catena Web](https://catenabible.com/) | A webapp for Catena. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React |
 
+
+### Mobile
+| Link | Description | Tech |
+| --- | --- | -- |
+| [Metre Men Qeemi](https://github.com/mark-yacoub/metremenqeemi) | The Open Source Android/iOS app to learn how to read and understand the Coptic Language | React Native |
+| [Catena Mobile](https://apps.apple.com/us/app/catena-bible-commentaries/id1218663640) | The bible app + the sayings of the church fathers. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React Native |
 
 **[⬆ Back to Index](#index)**
