@@ -17,5 +17,6 @@ _An awesome list of Coptic Repositories._ following the [awesome-repos](https://
 | Repository | Description |
 | --- | --- |
 | [Coptic.io](https://github.com/abanobmikaeel/coptic.io) | 📜 An API for getting coptic readings in JSON/GraphQL manner
+| [Katameros.app](https://github.com/pierresaid/katameros-api) | API for the daily readings in the Coptic Orthodox Church. Supports multiple bible versions and langages. |
 
 **[⬆ Back to Index](#index)**
