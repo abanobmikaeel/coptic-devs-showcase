@@ -2,7 +2,7 @@
 
 # Coptic Devs Showcase
 
-_An awesome list of Coptic Repositories._ <br>
+_An awesome list of Coptic Repositories._ following the [awesome-repos](https://github.com/pawelborkar/awesome-repos/tree/master) style <br>
 
 </div> <br>
 
