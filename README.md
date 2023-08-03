@@ -5,6 +5,9 @@
 
 _An awesome list of Coptic Repositories._ following the [awesome-repos](https://github.com/pawelborkar/awesome-repos/tree/master) style <br>
 
+![Message](https://img.shields.io/badge/Coptic-Devs-%23ff0055)
+
+
 </div><br>
 
 _Pull Requests are welcome. Please see the [Contributing Guide](CONTRIBUTING.md) before opening a Pull Request._
