@@ -1,2 +1,1 @@
-# coptic-devs-showcase
-Coptic Devs Showcase
+# Coptic Devs Showcase
