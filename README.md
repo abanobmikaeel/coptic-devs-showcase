@@ -10,7 +10,7 @@ _An awesome list of Coptic Repositories._ following the [awesome-repos](https://
 
 ## Index
 
--   [Katamaros](#katamaros)
+-   [API](#api)
 
 ### API
 
