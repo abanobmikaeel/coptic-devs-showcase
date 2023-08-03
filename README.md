@@ -14,8 +14,8 @@ _An awesome list of Coptic Repositories._ <br>
 
 ### API
 
-| Repository | Description | License |
-| --- | --- | --- |
-| [Coptic.io](https://github.com/APIs-guru/graphql-apis) | 📜 An API for getting coptic readings in JSON/GraphQL manner | [MIT](https://github.com/abanobmikaeel/coptic.io) |
+| Repository | Description |
+| --- | --- |
+| [Coptic.io](https://github.com/abanobmikaeel/coptic.io) | 📜 An API for getting coptic readings in JSON/GraphQL manner
 
 **[⬆ Back to Index](#index)**
