@@ -22,9 +22,9 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 
 ### API
 
-| Repository | Description |
-| --- | --- |
-| [Coptic.io](https://github.com/abanobmikaeel/coptic.io) | 📜 An API for getting coptic readings in JSON/GraphQL manner
-| [Katameros.app](https://github.com/pierresaid/katameros-api) | API for the daily readings in the Coptic Orthodox Church. Supports multiple bible versions and langages. |
+| Repository | Description | Language |
+| --- | --- | -- |
+| [Coptic.io](https://github.com/abanobmikaeel/coptic.io) | 📜 An API for getting coptic readings in JSON/GraphQL manner | Typescript + Node
+| [Katameros.app](https://github.com/pierresaid/katameros-api) | API for the daily readings in the Coptic Orthodox Church. Supports multiple bible versions and langages. | .Net Core + SQL + Entity Framework
 
 **[⬆ Back to Index](#index)**
