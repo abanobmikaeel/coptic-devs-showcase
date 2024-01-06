@@ -38,6 +38,7 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | --- | --- | -- |
 | [Upper Room Media Webapp](https://github.com/upperroommedia/web-app) | A webapp for the Upper Room Media Group | Next.js |
 | [Catena Web](https://catenabible.com/) | A webapp for Catena. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React |
+| [What Am I Praying](https://whatamipraying.vercel.app) | A webapp to help large clergy liturgies allocate which priest / bishop has which part in the liturgy | React |
 | [One Coptic Library (Web)](https://app.onecopticlibrary.com) | A webapp aimed to provide a comprehensive and accessible digital Coptic library in as many languages as possible for users worldwide. Join us in preserving and promoting our Coptic heritage for generations to come, sign up [here](https://forms.gle/LU7iEjyHV3q9thEo8). | Flutter |
 
 ### Mobile
