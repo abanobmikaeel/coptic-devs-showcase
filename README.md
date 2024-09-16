@@ -14,7 +14,7 @@ _Pull Requests are welcome. Please see the [Contributing Guide](CONTRIBUTING.md)
 
 </div><br>
 
-## Who we are 
+## Who we are
 Coptic Devs is a discord-first community that allows Coptic Developers connect from all over the world and contribute on projects that serves the needs the [coptic orthodox community](https://en.wikipedia.org/wiki/Coptic_Orthodox_Church).
 
 [Discord Chat](https://discord.gg/mAnYc9rj) - Join our developer chat on Discord.
@@ -24,7 +24,7 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 -   [API](#api)
 -   [Web App](#web)
 -   [Mobile](#mobile)
-  
+
 ### API
 
 | Link | Description | Tech |
@@ -40,6 +40,7 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | [Catena Web](https://catenabible.com/) | A webapp for Catena. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React |
 | [What Am I Praying](https://whatamipraying.vercel.app) | A webapp to help large clergy liturgies allocate which priest / bishop has which part in the liturgy | React |
 | One Coptic Library [Web](https://app.onecopticlibrary.com) | A digital Coptic library with cross-platform, multilingual, and transliteration support. Join us, sign up [here](https://forms.gle/LU7iEjyHV3q9thEo8). | Flutter |
+| [ⲣⲉⲙⲛ̀Ⲭⲏⲙⲓ](https://remnqymi.com/) | A Coptic language learning platform. | Python |
 
 ### Mobile
 | Link | Description | Tech |
@@ -48,10 +49,6 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | [Catena Mobile](https://apps.apple.com/us/app/catena-bible-commentaries/id1218663640) | The bible app + the sayings of the church fathers. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React Native |
 | One Coptic Library [Android](https://play.google.com/store/apps/details?id=com.onecopticlibrary.ocl) [iOS/macOS](https://apps.apple.com/us/app/one-coptic-library/id1662280247) [Windows](https://onecopticlibrary.com/builds/latest/windows/One%20Coptic%20Library.zip) [Linux](https://onecopticlibrary.com/builds/latest/linux/One%20Coptic%20Library.zip) | A digital Coptic library with cross-platform, multilingual, and transliteration support. Join us, sign up [here](https://forms.gle/LU7iEjyHV3q9thEo8). | Flutter |
 
-### Other
-| Link | Description | Tech |
-| --- | --- | -- |
-| [Coptic Flash Cards (Anki)](https://github.com/pishoyg/coptic/) | Coptic flashcard / dictionary project that aims at making the language more learnable. | Anki |
 
 
 **[⬆ Back to Index](#index)**
