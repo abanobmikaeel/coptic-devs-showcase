@@ -49,6 +49,9 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | [Catena Mobile](https://apps.apple.com/us/app/catena-bible-commentaries/id1218663640) | The bible app + the sayings of the church fathers. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React Native |
 | One Coptic Library [Android](https://play.google.com/store/apps/details?id=com.onecopticlibrary.ocl) [iOS/macOS](https://apps.apple.com/us/app/one-coptic-library/id1662280247) [Windows](https://onecopticlibrary.com/builds/latest/windows/One%20Coptic%20Library.zip) [Linux](https://onecopticlibrary.com/builds/latest/linux/One%20Coptic%20Library.zip) | A digital Coptic library with cross-platform, multilingual, and transliteration support. Join us, sign up [here](https://forms.gle/LU7iEjyHV3q9thEo8). | Flutter |
 
-
+### Packages
+| Link | Description | Tech |
+| --- | --- | -- |
+| [CopticCalendar](https://github.com/markrofail/coptic-calendar) | JS/TS package to convert to/from coptic dates with en/ar/co locale support | TS |
 
 **[⬆ Back to Index](#index)**
