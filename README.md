@@ -41,6 +41,7 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | [What Am I Praying](https://whatamipraying.vercel.app) | A webapp to help large clergy liturgies allocate which priest / bishop has which part in the liturgy | React |
 | One Coptic Library [Web](https://app.onecopticlibrary.com) | A digital Coptic library with cross-platform, multilingual, and transliteration support. Join us, sign up [here](https://forms.gle/LU7iEjyHV3q9thEo8). | Flutter |
 | [ⲣⲉⲙⲛ̀Ⲭⲏⲙⲓ](https://remnqymi.com/) | A Coptic language learning platform. | Python |
+| [Doxali](https://doxali.org) | A free Coptic Orthodox-based Bible and prayer app: the Agpeya, the Coptic calendar, the daily Synaxarium, the Midnight Praises and hymns, and reading plans, in English and Arabic. No ads. | React Native (Expo) |
 
 ### Mobile
 | Link | Description | Tech |
